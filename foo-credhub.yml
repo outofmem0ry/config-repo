@@ -1,0 +1,1 @@
+bar: ${vcap.services.oom-credhub-service.credentials.message}
